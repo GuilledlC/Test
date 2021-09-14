@@ -1,5 +1,6 @@
-print('Hello world! this is a test')
-a = int(input("Choose a number "))
-b = a + 1
-print("the next number is ", b)
+print('Hello world! this is NOT a test')
+#a = int(input("Choose a number "))
+a = 2
+b = a - 1
+#print("the PREVIOUS number is ", b)
 input()
